@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="82122d23933802104567ff118bba1017" sys_domain="global" table="x_1097202_anny_app_ai_devices" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-13 15:22:06</sys_created_on>
+            <sys_id>12122d23933802104567ff118bba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1097202_anny_app_ai_devices" sys_domain="global" view="Default view">82122d23933802104567ff118bba1017</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-13 15:22:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1097202_anny_app_ai_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-13 15:22:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82122d23933802104567ff118bba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1097202_anny_app_ai_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope>
+            <sys_update_name>sys_ui_section_82122d23933802104567ff118bba1017</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-13 15:22:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Anny App">70b7ec9b93f402104567ff118bba104b</application>
+        <file_path/>
+        <instance_id>59fae4b5dbaab15cae4c9027c596197e</instance_id>
+        <instance_name>dev214271</instance_name>
+        <name>sys_ui_section_82122d23933802104567ff118bba1017</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="82122d23933802104567ff118bba1017" sys_domain="global" table="x_1097202_anny_app_ai_devices" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-13 15:22:06</sys_created_on><sys_id>12122d23933802104567ff118bba107b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1097202_anny_app_ai_devices" sys_domain="global" view="Default view">82122d23933802104567ff118bba1017</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-13 15:22:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1097202_anny_app_ai_devices</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-13 15:22:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>82122d23933802104567ff118bba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1097202_anny_app_ai_devices</sys_name><sys_overrides/><sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package><sys_policy/><sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope><sys_update_name>sys_ui_section_82122d23933802104567ff118bba1017</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-13 15:22:05</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-922983705</payload_hash>
+        <record_name>Ai Devices</record_name>
+        <reverted_from/>
+        <source>4209f0e3937402104567ff118bba1030</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 15:22:06</sys_created_on>
+        <sys_id>5e122d23933802104567ff118bba107c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e386809ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 15:22:06</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d2122d2380380210eb1ca95b77b0117c</update_guid>
+        <update_guid_history>d2122d2380380210eb1ca95b77b0117c:-922983705</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 15:22:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>5660283a60744ed8ba0ec6a9706903c1</sys_id>
+        <sys_metadata>82122d23933802104567ff118bba1017</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package>
+        <sys_parent display_value="Ai Devices">b3c6d52b93b402104567ff118bba10a7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope>
+        <sys_scope_delete display_value="">02f84156f0bf49c082edf915986fa890</sys_scope_delete>
+        <sys_update_name>sys_ui_section_82122d23933802104567ff118bba1017</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_82122d23933802104567ff118bba1017">5e122d23933802104567ff118bba107c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 15:22:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
