@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="cbf92057933802104567ff118bba10e8" extends="task" label="Device Management" max_length="40" name="x_1097202_anny_app_device_management" type="collection"/>
+    <element db_object_id="cbf92057933802104567ff118bba10e8" extends="task" label="Device Management" max_length="40" name="x_1097202_anny_app_device_management" type="collection">
+        <element label="Demo" max_length="40" name="demo" type="string"/>
+    </element>
 </database>
