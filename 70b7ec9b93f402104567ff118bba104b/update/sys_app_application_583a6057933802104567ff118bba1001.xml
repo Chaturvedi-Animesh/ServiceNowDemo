@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin,x_1097202_anny_app.device_management,x_1097202_anny_app.dispatch_management,x_1097202_anny_app.release_management,x_1097202_anny_app.end_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 16:39:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>583a6057933802104567ff118bba1001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Anny App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope>
+        <sys_update_name>sys_app_application_583a6057933802104567ff118bba1001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 16:39:22</sys_updated_on>
+        <title>Anny App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
