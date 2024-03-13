@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="cbf92057933802104567ff118bba10e8" extends="task" label="Device Management" max_length="40" name="x_1097202_anny_app_device_management" type="collection">
         <element label="Demo" max_length="40" name="demo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_delivery_date" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="u_device_name" reference="x_1097202_anny_app_ai_devices" type="reference"/>
+        <element label="Quantity" mandatory="true" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="encode_utf8=false" label="Requester" mandatory="true" max_length="32" name="u_requester_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Requirement" max_length="40" name="u_string_5" type="string"/>
     </element>
 </database>
