@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1097202_anny_app.getDeviceDetails</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>getDeviceDetails</name>
+        <script><![CDATA[var getDeviceDetails = Class.create();
+getDeviceDetails.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	getDetails: function(){
+		var deviceId = this.getParameter('sysparm_device_id');
+		var deviceDetails = new GlideRecord('x_1097202_anny_app_ai_devices');
+		deviceDetails.get(deviceId);
+		deviceDetails.query();
+		if(deviceDetails.next()){
+			var outDeviceDetails = {
+				model : deviceDetails.getValue('model_number'),
+				price : deviceDetails.getValue('u_price_2'),
+				description : deviceDetails.getValue('short_description'),
+				warranty : deviceDetails.getValue('warranty_expiration')
+			}
+			
+			return JSON.stringify(outDeviceDetails);
+		}
+	},
+
+    type: 'getDeviceDetails'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 13:32:10</sys_created_on>
+        <sys_id>863e42fb937402104567ff118bba1093</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>getDeviceDetails</sys_name>
+        <sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope>
+        <sys_update_name>sys_script_include_863e42fb937402104567ff118bba1093</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 13:34:06</sys_updated_on>
+    </sys_script_include>
+</record_update>
