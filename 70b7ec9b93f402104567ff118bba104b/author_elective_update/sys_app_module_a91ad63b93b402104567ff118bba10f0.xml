@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Anny App">583a6057933802104567ff118bba1001</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Cases</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1097202_anny_app_case</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1097202_anny_app.case_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 14:05:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a91ad63b93b402104567ff118bba10f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope>
+        <sys_update_name>sys_app_module_a91ad63b93b402104567ff118bba10f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 14:05:11</sys_updated_on>
+        <timeline_page/>
+        <title>Cases</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Anny App">70b7ec9b93f402104567ff118bba104b</application>
+        <file_path/>
+        <instance_id>59fae4b5dbaab15cae4c9027c596197e</instance_id>
+        <instance_name>dev214271</instance_name>
+        <name>sys_app_module_a91ad63b93b402104567ff118bba10f0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Anny App">583a6057933802104567ff118bba1001</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Cases</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1097202_anny_app_case</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1097202_anny_app.case_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-14 14:05:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a91ad63b93b402104567ff118bba10f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cases</sys_name><sys_overrides/><sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package><sys_policy/><sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope><sys_update_name>sys_app_module_a91ad63b93b402104567ff118bba10f0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-14 14:05:11</sys_updated_on><timeline_page/><title>Cases</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2014698076</payload_hash>
+        <record_name>Cases</record_name>
+        <reverted_from/>
+        <source>4209f0e3937402104567ff118bba1030</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 14:05:12</sys_created_on>
+        <sys_id>611ad63b93b402104567ff118bba10f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e3d47fdf00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 14:05:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a51ad63b3db4021013537b91c19e99f2</update_guid>
+        <update_guid_history>a51ad63b3db4021013537b91c19e99f2:2014698076</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cases">354a5e3b93b402104567ff118bba1038</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 14:06:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0bc90d4ddc03473680a16abb134724a4</sys_id>
+        <sys_metadata>a91ad63b93b402104567ff118bba10f0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cases</sys_name>
+        <sys_package display_value="Anny App" source="x_1097202_anny_app">70b7ec9b93f402104567ff118bba104b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Anny App">70b7ec9b93f402104567ff118bba104b</sys_scope>
+        <sys_scope_delete display_value="">02f84156f0bf49c082edf915986fa890</sys_scope_delete>
+        <sys_update_name>sys_app_module_a91ad63b93b402104567ff118bba10f0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a91ad63b93b402104567ff118bba10f0">611ad63b93b402104567ff118bba10f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 14:06:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
